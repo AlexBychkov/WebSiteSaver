@@ -1,0 +1,17 @@
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\bin\Debug\net6.0\WebSite_traverse.exe
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\bin\Debug\net6.0\WebSite_traverse.deps.json
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\bin\Debug\net6.0\WebSite_traverse.runtimeconfig.json
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\bin\Debug\net6.0\WebSite_traverse.dll
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\bin\Debug\net6.0\WebSite_traverse.pdb
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.csproj.AssemblyReference.cache
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.AssemblyInfoInputs.cache
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.AssemblyInfo.cs
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.csproj.CoreCompileInputs.cache
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.csproj.CopyComplete
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.dll
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\refint\WebSite_traverse.dll
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.pdb
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\WebSite_traverse.genruntimeconfig.cache
+D:\Repositories\1337\WebSite_traverse\WebSite_traverse\obj\Debug\net6.0\ref\WebSite_traverse.dll
