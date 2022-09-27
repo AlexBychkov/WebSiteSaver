@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32510.428
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSiteSaver.ConsoleApp", "WebSiteSaver\WebSiteSaver.ConsoleApp.csproj", "{F257CF64-921E-4FE4-98B2-610711A0898A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteSaver.Infrastructure", "WebSiteSaver.Infrastructure\WebSiteSaver.Infrastructure.csproj", "{5FE7B62F-8AAD-4547-A72E-CE7DF73AA6CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSiteSaver.Infrastructure", "WebSiteSaver.Infrastructure\WebSiteSaver.Infrastructure.csproj", "{5FE7B62F-8AAD-4547-A72E-CE7DF73AA6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteSaver.Application", "WebSiteSaver.Application\WebSiteSaver.Application.csproj", "{45DE9655-E857-448C-B91B-A9721F626017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSiteSaver.Application", "WebSiteSaver.Application\WebSiteSaver.Application.csproj", "{45DE9655-E857-448C-B91B-A9721F626017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteSaver.Application.Tests", "WebSiteSaver.Application.Tests\WebSiteSaver.Application.Tests.csproj", "{86FC564D-99F5-43CE-875B-9D4AFBEFF7A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{45DE9655-E857-448C-B91B-A9721F626017}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45DE9655-E857-448C-B91B-A9721F626017}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45DE9655-E857-448C-B91B-A9721F626017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FC564D-99F5-43CE-875B-9D4AFBEFF7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FC564D-99F5-43CE-875B-9D4AFBEFF7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FC564D-99F5-43CE-875B-9D4AFBEFF7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FC564D-99F5-43CE-875B-9D4AFBEFF7A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

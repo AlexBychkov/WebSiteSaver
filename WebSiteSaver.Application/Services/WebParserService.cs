@@ -32,7 +32,6 @@ namespace WebSiteSaver.Application.Services
         {
             try
             {
-
                 var basicUrl = _settings.Value.BaseWebSiteUrl;
                 var outputPath = _settings.Value.OutputFolderName;
 
@@ -58,7 +57,7 @@ namespace WebSiteSaver.Application.Services
 
                 if (!pages.Any())
                 {
-                    throw new Exception("No pages have been found on downloaded");
+                    throw new Exception("No pages have been found");
                 }
 
                 using (var progressBar = new ProgressBar(links.Count(), "Saving all the pages..."))
